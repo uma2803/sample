@@ -1,0 +1,15 @@
+.name{
+    border-radius: 20px;
+    padding: 10px 25px;
+    background-color: navy;
+    color: white;
+}
+.shape{
+    color: white;
+    background-color: limegreen;
+    border-radius: 100px;
+    padding:15px 65px ;
+}
+.checkbox{
+    border-width: 0px;
+}
